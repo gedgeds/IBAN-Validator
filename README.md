@@ -1,5 +1,5 @@
 # IBAN-Validator
 
-Paleidimas:
+Instructions:
 
-Paleisti Main.java klasės Main() metodą.
+Run Main.java class Main() method.
